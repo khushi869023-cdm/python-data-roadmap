@@ -37,3 +37,8 @@ print("Subtraction:", x - y)
 
 #Type Conversion
 print("String to Integer:", int("123") + 10)
+
+
+a="100"
+b=200
+print("String to Integer:", int(a) + b)
